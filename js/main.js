@@ -1,3 +1,6 @@
+  document.addEventListener("DOMContentLoaded", function () {
+      AOS.init();
+    });
 (function ($) {
     "use strict";
     
